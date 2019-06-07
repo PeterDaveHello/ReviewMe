@@ -8,6 +8,14 @@ ReviewMe is a nodejs app that monitors App Store and Google Play reviews, and po
 
 This project was originally forked from [reviews-to-slack](https://www.npmjs.com/package/reviews-to-slack)
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Config](#config)
+  - [Options](#options)
+  - [App options](#app-options)
+- [Google Play Publisher Key](#google-play-publisher-key)
 
 ## Installation
 
